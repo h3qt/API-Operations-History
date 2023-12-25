@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/API_Operations_History.main.iml" filepath="$PROJECT_DIR$/.idea/modules/API_Operations_History.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/API_Operations_History.test.iml" filepath="$PROJECT_DIR$/.idea/modules/API_Operations_History.test.iml" />
     </modules>
   </component>
 </project>

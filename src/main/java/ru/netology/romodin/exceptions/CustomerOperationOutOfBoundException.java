@@ -1,4 +1,4 @@
-package ru.netology.romodin.exception;
+package ru.netology.romodin.exceptions;
 
 public class CustomerOperationOutOfBoundException extends OperationRuntimeException {
 
