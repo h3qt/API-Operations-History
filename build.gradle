@@ -15,3 +15,7 @@ dependencies {
 tasks.jar {
     manifest.attributes["Main-Class"] = "ru.netology.romodin.Main"
 }
+
+test {
+    useJUnitPlatform()
+}

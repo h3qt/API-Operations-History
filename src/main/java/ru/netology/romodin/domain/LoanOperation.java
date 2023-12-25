@@ -11,6 +11,5 @@ public class LoanOperation extends Operation implements ConsolePrintable{
 
     @Override
     public void printToConsole() {
-
     }
 }
